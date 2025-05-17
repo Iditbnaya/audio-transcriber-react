@@ -1,0 +1,8 @@
+# See https://github.com/github/gitignore/blob/main/Node.gitignore
+node_modules/
+build/
+.env
+.env.*
+dist/
+.DS_Store
+*.log
